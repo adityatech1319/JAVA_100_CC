@@ -1,7 +1,7 @@
 package Day_2;
 
 import java.util.Scanner;
-
+//factorial using recursion
 public class Day_2_1{
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
